@@ -72,6 +72,9 @@
 }
 h6:hover{
     text-shadow: 5px 5px 5px green;
+    border: 2px;
+    border-color: blue;
+    background-color: red;
 }
 
 .EDITH {
